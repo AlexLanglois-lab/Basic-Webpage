@@ -1,0 +1,12 @@
+#p01 {
+  color: white;
+  style="font-family:arial";  
+  background-image: url("download1.jpg");
+  background-repeat: no-repeat;
+}
+#p02 {
+  color: blue;
+  style="font-family:courier";  
+  font-size: 300%;
+  background-color: yellow;
+}
